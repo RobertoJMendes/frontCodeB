@@ -12,4 +12,7 @@ export function Search(){
         className='bg-transparent outline-none font-bold text-white placeholder:text-primary-blue'/>
         </div>
     )
+
+
 }
+// teste git
